@@ -117,7 +117,9 @@
         <package name="gio-branding-SLE"/>
         <package name="MozillaFirefox-branding-SLE"/>
         <package name="gnome-shell-classic"/>
-
+	<!-- Test to install htop-->
+        <package name="htop"/>
+	
         <!-- Fonts -->
         <package name="liberation-fonts"/>
         <package name="google-opensans-fonts"/>
